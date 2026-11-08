@@ -1,0 +1,9 @@
+dist/
+*.zip
+__MACOSX/
+.DS_Store
+._*
+.venv/
+__pycache__/
+*.py[cod]
+.claude/
